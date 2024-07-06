@@ -30,5 +30,11 @@ Screenshots
 
 https://github.com/RahulNair2004/STACK/assets/174892063/88d4c37c-22f7-444a-bcc1-f248d723bd9e
 
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Have fun stacking and challenge yourself to beat the high score!
+
 
 
