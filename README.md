@@ -1,11 +1,11 @@
 # STACK
 Stack Game 
 
-Overview
+## Overview
 
 This project is a recreation of the popular Stack game. The goal of the game is to stack blocks as high as possible by precisely placing each new block on top of the previous one. The more accurate your placements, the higher your tower will grow, challenging your precision and timing skills!
 
-Features
+## Features
 
 Addictive Gameplay: Simple yet challenging gameplay mechanics that keep players engaged.
 
@@ -22,7 +22,7 @@ Controls
 
 Place Block: Spacebar or Mouse Click
 
-Screenshots
+## Screenshots
 
 ![Screenshot (9)](https://github.com/RahulNair2004/STACK/assets/174892063/10b0bb4d-0912-4ea7-b7d3-3a835fbcd1fe)
 
@@ -31,7 +31,7 @@ Screenshots
 
 https://github.com/RahulNair2004/STACK/assets/174892063/88d4c37c-22f7-444a-bcc1-f248d723bd9e
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
